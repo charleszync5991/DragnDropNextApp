@@ -1,48 +1,42 @@
 export const cardsData = [
   {
     id: 0,
-    title: "Component Librarys",
+    title: "Main Page",
     components: [
       {
         id: 100,
-        name: "material ui"
+        name: "Card1",
       },
       {
         id: 200,
-        name: "bootstrap"
+        name: "Card2",
       },
-    ]
+    ],
   },
   {
     id: 1,
-    title: "Javascript Librarys",
+    title: "Component Selection ",
     components: [
       {
         id: 300,
-        name: "react"
+        name: "Card3",
       },
       {
         id: 400,
-        name: "node"
+        name: "Card4",
       },
-    ]
-  },
-  {
-    id: 2,
-    title: "react helping Librarys",
-    components: [
       {
         id: 500,
-        name: "redux"
+        name: "Card5",
       },
       {
         id: 600,
-        name: "recoil"
+        name: "Card6",
       },
-    ]
-  }
-
-
-]
-
-
+      {
+        id: 700,
+        name: "Card7",
+      },
+    ],
+  },
+];
